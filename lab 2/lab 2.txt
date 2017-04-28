@@ -1,0 +1,14 @@
+Part 1:
+
+Follow the instructions with the slides to create an example repository, use the log, reflog, status, and reset commands. 
+
+What's HEAD?
+HEAD is a reference to the most recent commit in a current branch 
+
+What's the log, and the reflog? How are the two different? 
+log shows the current HEAD and its ancestry. The reflog is an ordered list of the commits that HEAD has pointed too.
+
+
+What does HEAD@{4} mean?
+
+HEAD@{4} is the 5th modt oldest commit that was done 
